@@ -1,9 +1,1 @@
-# Amazon Vine Analysis
-
-## Overview
-
-
-## Results
-
-
-## Summary
+# Amazon_Vine_Analysis
