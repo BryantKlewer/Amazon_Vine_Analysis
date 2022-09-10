@@ -25,7 +25,7 @@
 ## Summary
 
 ### Positivity bias?
-* From the data gathered, it is not indicated that there is a bias towards positivity in the reviews in this data set. As shown in the results of the analysis, only 46.3% of Amazon Vine members gave a 5 star review where as 65.49% of non-Vine users gave a 5 star review. What the data indicates is actually the opposite, and it stands to reason that Vine members may actually hold a higher standard and therefore may be harsher in their reviews.
+* From the data gathered, it is not indicated that there is a bias towards positivity in the reviews in this data set. As shown in the results of the analysis, only 46.3% of Amazon Vine members gave a 5 star review where as 65.49% of non-Vine users gave a 5 star review. What the data indicates is actually the opposite, it stands to reason that Vine members may actually hold a higher standard for their products and therefore may be harsher in their reviews.
 
 ### Recommendations
 * Further analysis of the Vine program would be recommended in order to determine if there are similar findings. Only one of fifty product categories' data was utilized during this analysis. Given enough time and resources, it would be recommended to replicate this analysis at scale for the additional 49 categories. At a minimum, a random sampling of at least 50% of the product categories should be completed. Furthermore, including 4 star reviews in the analysis could be another alternative in order to determine if they have bearing on overall positivity bias. 
